@@ -62,7 +62,7 @@ for (var i = 0; i < noteRepeatButtons.length; i++) {
 }
 
 let soundObject = {
-	pad1: { sound: "/justBlazeBtz/JustBlaze-989kick.wav", key: 49 },
+	pad1: { sound: "justBlazeBtz/JustBlaze-989kick.wav", key: 49 },
 	pad2: { sound: "/justBlazeBtz/JustBlaze-blueprintKick10.wav", key: 50 },
 	pad3: { sound: "/justBlazeBtz/JustBlaze-CFIRM.wav", key: 51 },
 	pad4: { sound: "/justBlazeBtz/JustBlaze-dlz19.wav", key: 52 },
